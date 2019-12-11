@@ -1,0 +1,26 @@
+.carousel1  {
+    padding-left:300px;
+    width:1000px;
+  
+  }
+  
+  .navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
+  .navbar {min-height:32px !important}
+  
+  .jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1483825366482-1265f6ea9bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+  }
+  
+  .jumbotron h1 {
+    color: #FFFFFF
+  }
+  
+  .jumbotron p {
+    color: #FFFFFF
+  }
+  
+  .carousel-caption d-none d-md-block {
+    background-color: black;
+  
+  }
